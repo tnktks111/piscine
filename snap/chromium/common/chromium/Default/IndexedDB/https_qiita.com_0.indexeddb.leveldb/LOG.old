@@ -1,0 +1,6 @@
+2025/03/11-11:49:21.556 3ac7a Creating DB /home/ttanaka/snap/chromium/common/chromium/Default/IndexedDB/https_qiita.com_0.indexeddb.leveldb since it was missing.
+2025/03/11-11:49:21.568 3ac7a Reusing MANIFEST /home/ttanaka/snap/chromium/common/chromium/Default/IndexedDB/https_qiita.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/11-11:49:22.961 3ac92 Level-0 table #5: started
+2025/03/11-11:49:22.963 3ac92 Level-0 table #5: 1151 bytes OK
+2025/03/11-11:49:22.964 3ac92 Delete type=0 #3
+2025/03/11-11:49:22.964 3ac7a Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

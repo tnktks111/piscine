@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="chromium_chromium.desktop" score="322" last-seen="1741676222"/>
+    <application id="nm-connection-editor.desktop" score="1" last-seen="1741661448"/>
+    <application id="org.gnome.Nautilus.desktop" score="0" last-seen="1741662426"/>
+    <application id="gnome-control-center.desktop" score="0" last-seen="1741661479"/>
+    <application id="gnome-initial-setup.desktop" score="1" last-seen="1741660744"/>
+    <application id="org.gnome.Terminal.desktop" score="1007" last-seen="1741676183"/>
+  </context>
+</application-state>
